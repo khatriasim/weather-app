@@ -1,0 +1,64 @@
+.container{
+    border: 2px solid black;
+    height: 99vh;
+    width: 99%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: rgb(78, 131, 175);
+}
+.inputbar{
+    border: 2px solid black;
+    height: 170px;
+    width: 230px;
+    margin: 20px;
+    margin-top: 250px;
+    background-color: rgb(254, 254, 255);
+    border-radius: 9px;
+}
+
+p{
+    margin-left: 10px;
+    font-style: unset;
+    font-weight: bold;
+
+}
+.showweather{
+    border: 2px solid black;
+    height: 440px;
+    width: 400px;
+    margin: 40px;
+    margin-top: 120px;
+    background-color: antiquewhite;
+    border-radius: 9px;
+}
+body{
+    margin: 0;
+}
+.addlocation{
+    margin: 10px;
+    margin-top: 30px;
+}
+.input{
+    padding: 10px;
+}
+.back{
+    display: flex;
+
+}
+.submit{
+    margin: 10px;
+    margin-left: 60px;
+    margin-top: 10px;
+    padding: 7px;
+
+}
+.backbtn{
+    background-color: antiquewhite;
+    border: none;
+}
+.line{
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
